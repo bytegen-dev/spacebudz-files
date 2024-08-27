@@ -1,0 +1,7 @@
+.image{
+    width: 200px;
+    height: 200px;
+    background-color: #0001;
+    background-image: url(./nobg10000/%239999.png);
+    background-size: contain;
+}
